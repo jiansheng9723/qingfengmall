@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feb4f55f-61ba-4dbf-bad3-f2608ac39c93" name="Default Changelist" comment="" />
+    <list default="true" id="feb4f55f-61ba-4dbf-bad3-f2608ac39c93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qingfengmall-common/src/main/java/com/qingfeng/common/vo/CommonResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/qingfengmall-common/src/main/java/com/qingfeng/common/vo/CommonResponse.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -24,6 +30,7 @@
     </option>
   </component>
   <component name="ProjectId" id="25BQBjpTyDUPxWEiK5LrnnMTqZE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -59,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644997865762</updated>
-      <workItem from="1644997868740" duration="4203000" />
+      <workItem from="1644997868740" duration="5317000" />
     </task>
     <servers />
   </component>

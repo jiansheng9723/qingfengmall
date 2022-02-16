@@ -1,0 +1,46 @@
+## Git 忽略文件
+## 子模块中不需要额外新建 .gitignore
+## 提交git代码的时候，在根目录中执行提交命令
+## 推荐使用IDEA内置的git插件进行处理
+## @Date : 2018-03-22
+## @Version: 1.0.0
+
+# Gradle Files
+.gradle/
+build/
+*/build/
+*/.config.cache
+out/
+*/out/
+
+# Log Files
+*.log
+logs/
+log/
+
+# IntelliJ Files
+*.iml
+*/*.iml
+.idea/
+*/.idea/
+
+# OSX Files
+*/.DS_Store
+.DS_Store
+
+# Other Files
+Thumbs.db
+*.bak
+*.tem
+*.temp
+
+# Maven Files
+target/
+
+# gRPC Source Files
+*/generatedSrc/
+
+# gradle wrapper Files
+/gradle/
+/gradlew
+/gradlew.bat
