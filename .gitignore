@@ -21,8 +21,8 @@ log/
 # IntelliJ Files
 *.iml
 */*.iml
-.idea/*
-*/.idea/
+idea/*
+*/.idea/*
 
 # OSX Files
 */.DS_Store

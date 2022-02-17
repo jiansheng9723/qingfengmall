@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="feb4f55f-61ba-4dbf-bad3-f2608ac39c93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qingfengmall-common/src/main/java/com/qingfeng/common/vo/CommonResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/qingfengmall-common/src/main/java/com/qingfeng/common/vo/CommonResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +13,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
+        <option value="Class"  />
       </list>
     </option>
   </component>
@@ -67,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644997865762</updated>
       <workItem from="1644997868740" duration="5816000" />
+      <workItem from="1645066474581" duration="80000" />
     </task>
     <servers />
   </component>
